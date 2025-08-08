@@ -1,0 +1,11 @@
+[project]
+name = "token-exchange"
+authors = []
+description = ""
+telemetry = true
+requirements = []
+analysis = ["check_checker"]
+costs_version = 2
+[contracts.eco-token]
+path = "contracts/eco-token.clar"
+depends_on = []
